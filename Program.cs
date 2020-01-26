@@ -6,7 +6,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine(RomanToInt.Solution("MMCDXXI"));
+            System.Console.WriteLine(LongestCommonPrefix.Solution(new string[] { "teasack", "tea", "teacup"}));
         }
     }
 }
