@@ -6,7 +6,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine(Reverse.Solution(123));
+            System.Console.WriteLine(RomanToInt.Solution("MMCDXXI"));
         }
     }
 }
